@@ -1,12 +1,12 @@
 # Blender MCP Server
 
-**Production-ready Model Context Protocol (MCP) server for complete Blender control via API**
+**Model Context Protocol (MCP) server for complete Blender control via API**
 
 This addon transforms Blender into an MCP server, exposing 50+ powerful tools that can be orchestrated by AI agents through HTTP endpoints. Perfect for AI-driven 3D workflows, automation, and creative experimentation.
 
 ## ✨ Features
 
-- **🚀 50+ Production-Ready Tools** - Complete control over Blender's features:
+- **🚀 50+ Tools** - Complete control over Blender's features:
   - Object creation, manipulation, and transformation
   - Material and shader system management
   - Animation and keyframe control
