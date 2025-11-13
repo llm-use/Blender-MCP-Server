@@ -57,7 +57,7 @@ from polymcp.polyagent import UnifiedPolyAgent, OllamaProvider
 
 async def main():
     # Initialize your LLM provider
-    llm = OllamaProvider(model="gpt-oss:120b", temperature=0.1)
+    llm = OllamaProvider(model="gpt-oss:120b-cloud", temperature=0.1)
     
     # Connect to Blender MCP server
     agent = UnifiedPolyAgent(
